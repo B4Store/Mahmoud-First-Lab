@@ -28,8 +28,8 @@ The goal of this assignment is to understand the fundamentals of web development
 ---
 
 ## 🛠 Technologies Used
-- HTML  
-- CSS
+- HTML5  
+- CSS3
 
 ---
 
