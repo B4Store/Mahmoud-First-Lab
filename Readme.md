@@ -36,7 +36,7 @@ The goal of this assignment is to understand the fundamentals of web development
 ## 🚀 How to Run
 1. Download or clone the project.
 2. Open the project folder.
-3. Run the `index.html` file in any web browser.
+3. Run the `mahmoud.html` file in any web browser.
 
 ---
 
